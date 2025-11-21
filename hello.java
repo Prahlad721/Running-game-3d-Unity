@@ -9,7 +9,7 @@ public static void main(String args[]){
         arr[i]=sc.nextInt();
 
     }
-    for(int )
+    for(int i=0)
 }
 
 }
