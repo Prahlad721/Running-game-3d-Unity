@@ -6,7 +6,6 @@ public class PlayerMovement : MonoBehaviour
       public float horizontalSpeed = 3;
       public  float rightLimit =5.5f; 
       public  float LeftLimit = -5.5f; 
-      public  int travel =1;
 
       [Header("--------Audio---------")]
       public AudioSource sfxSource;
