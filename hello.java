@@ -10,7 +10,9 @@ public static void main(String args[]){
 
     }
     for(int i=0;i<input;i++){
-        if( arr[i]==2)
+        if( arr[i]==2){
+            
+        }
     }
 }
 
