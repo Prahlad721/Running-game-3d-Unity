@@ -1,5 +1,7 @@
 public class hello{
 
-public static void main(Strings args[])
+public static void main(Strings args[]){
+    
+}
 
 }
